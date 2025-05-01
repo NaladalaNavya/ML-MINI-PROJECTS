@@ -1,7 +1,3 @@
-Certainly! Here's a comprehensive `README.md` file tailored for your [ML-MINI-PROJECTS](https://github.com/NaladalaNavya/ML-MINI-PROJECTS) repository. This README is structured to provide clear insights into each project category—Regression, Classification, and Clustering—highlighting the objectives, methodologies, and technologies used.
-
----
-
 # 🧠 Machine Learning Mini Projects
 
 Welcome to my **Machine Learning Mini Projects** repository! This collection encompasses a variety of projects that delve into core machine learning concepts, including regression, classification, and clustering. Each project is designed to reinforce theoretical knowledge through practical implementation using Python and popular ML libraries.
@@ -15,32 +11,26 @@ Welcome to my **Machine Learning Mini Projects** repository! This collection enc
 1. **Linear Regression – House Price Prediction**
    - **Objective:** Predict house prices based on area.
    - **Techniques:** Simple Linear Regression, Data Visualization.
-   - **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`.
 
 2. **Linear Regression – Canada Per Capita Income**
    - **Objective:** Analyze and predict Canada's per capita income over years.
    - **Techniques:** Time Series Analysis, Linear Regression.
-   - **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`.
 
 3. **Multiple Regression – Hiring Salary Prediction**
    - **Objective:** Predict salary based on experience, test score, and interview score.
    - **Techniques:** Multiple Linear Regression, Data Preprocessing.
-   - **Libraries:** `pandas`, `numpy`, `matplotlib`, `scikit-learn`.
 
 4. **Gradient Descent – Manual Implementation**
    - **Objective:** Understand and implement gradient descent optimization.
    - **Techniques:** Cost Function Minimization, Iterative Optimization.
-   - **Libraries:** `numpy`, `matplotlib`.
 
 5. **Gradient Descent – Test Score Prediction**
    - **Objective:** Predict test scores using gradient descent algorithm.
    - **Techniques:** Linear Regression, Gradient Descent.
-   - **Libraries:** `numpy`, `matplotlib`.
 
 6. **One-Hot Encoding – Home Prices**
    - **Objective:** Handle categorical variables using one-hot encoding to predict home prices.
    - **Techniques:** Categorical Data Encoding, Linear Regression.
-   - **Libraries:** `pandas`, `numpy`, `scikit-learn`.
 
 ---
 
@@ -49,27 +39,22 @@ Welcome to my **Machine Learning Mini Projects** repository! This collection enc
 1. **Logistic Regression – Insurance Claim Prediction**
    - **Objective:** Predict the likelihood of an insurance claim.
    - **Techniques:** Binary Classification, Logistic Regression.
-   - **Libraries:** `pandas`, `numpy`, `scikit-learn`.
 
 2. **Multinomial Logistic Regression – Handwritten Digits**
    - **Objective:** Classify handwritten digits into multiple categories.
    - **Techniques:** Multiclass Classification, Logistic Regression.
-   - **Libraries:** `pandas`, `numpy`, `scikit-learn`.
 
 3. **Naive Bayes – Titanic Survival Prediction**
    - **Objective:** Predict survival on the Titanic using passenger data.
    - **Techniques:** Probabilistic Classification, Naive Bayes.
-   - **Libraries:** `pandas`, `numpy`, `scikit-learn`.
 
 4. **Decision Tree – Titanic Survival Analysis**
    - **Objective:** Analyze survival data using decision tree classifier.
    - **Techniques:** Decision Tree Classification, Data Visualization.
-   - **Libraries:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`.
 
 5. **K-Nearest Neighbors (KNN) – Iris Dataset**
    - **Objective:** Classify iris species based on flower measurements.
    - **Techniques:** KNN Classification, Distance Metrics.
-   - **Libraries:** `pandas`, `numpy`, `scikit-learn`.
 
 ---
 
@@ -78,12 +63,10 @@ Welcome to my **Machine Learning Mini Projects** repository! This collection enc
 1. **K-Means Clustering – Income Data**
    - **Objective:** Segment individuals based on income data.
    - **Techniques:** Unsupervised Learning, K-Means Clustering.
-   - **Libraries:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`.
 
 2. **K-Means Clustering – Iris Dataset**
    - **Objective:** Cluster iris species without prior labels.
    - **Techniques:** Unsupervised Learning, K-Means Clustering.
-   - **Libraries:** `pandas`, `numpy`, `scikit-learn`, `matplotlib`.
 
 ---
 
@@ -107,10 +90,6 @@ To explore and run these projects locally:
 
 2. **Install dependencies:**
    *(Create a virtual environment if needed)*
-   ```bash
-   pip install -r requirements.txt
-   ```
-   *If a `requirements.txt` file is not present, you can install libraries manually:*
    ```bash
    pip install numpy pandas matplotlib scikit-learn
    ```
@@ -137,20 +116,6 @@ Contributions are welcome! If you have suggestions, improvements, or new project
 
 ---
 
-## 📬 Contact
-
-For any inquiries or collaborations:
-
-- **Email:** [navyanaladala237@gmail.com](mailto:navyanaladala237@gmail.com)
-- **GitHub:** [NaladalaNavya](https://github.com/NaladalaNavya)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to customize this `README.md` further to reflect any additional projects or updates you incorporate into your repository. If you need assistance generating a `requirements.txt` file or individual `README` files for each project folder, let me know! 
